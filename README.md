@@ -1,0 +1,1 @@
+Welcome to my portfolio website! This site showcases my skills, projects, and professional journey. It is a reflection of my passion for , web development, data science, graphic design, and my commitment to continuous learning and growth.
